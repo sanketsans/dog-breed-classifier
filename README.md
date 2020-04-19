@@ -123,4 +123,4 @@ VGG(
   )
 )
 ```
-**Result: Achieved a test accuracy of 79% on 20 epochs. 
+**Result: Achieved a test accuracy of 79% on 20 epochs.** 
